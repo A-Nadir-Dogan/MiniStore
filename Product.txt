@@ -3,4 +3,5 @@ remoteda değişiklikler eklendi...
 ndr branche task tamamlandı.
 
 bazı özellikler ekldendi:ndr
-özellik eklendi.
+
+
