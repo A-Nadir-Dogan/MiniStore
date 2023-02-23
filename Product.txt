@@ -1,3 +1,5 @@
 productla ile ilgili işlemler
 remoteda değişiklikler eklendi...
 ndr branche task tamamlandı.
+
+bazı özellikler ekldendi:ndr
